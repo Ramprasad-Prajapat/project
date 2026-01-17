@@ -1,1 +1,2 @@
-main c0`
+main c0
+main c1`
